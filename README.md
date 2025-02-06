@@ -12,7 +12,6 @@ Le projet est composé de trois fichiers principaux :
 
 1. **index.html** : Contient la structure de la page web.
 2. **styles.css** : Contient les styles CSS pour la mise en forme de la page.
-3. **script.js** : Contient le code JavaScript pour interagir avec les éléments de la page.
 
 ## Comment Utiliser
 
