@@ -24,6 +24,5 @@ Le projet est composé de trois fichiers principaux :
 3. **Modifier le contenu** :
    - **index.html** : Modifiez le contenu de la page pour personnaliser votre profil. Changez le nom, la bio, et les compétences listées.
    - **styles.css** : Personnalisez les styles pour adapter l'apparence de la page à vos préférences.
-   - **script.js** : Ajoutez des fonctionnalités interactives si nécessaire.
 
 4. **Ouvrir dans le navigateur** : Ouvrez le fichier `index.html` dans votre navigateur pour voir les modifications en temps réel.
